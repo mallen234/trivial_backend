@@ -1,1 +1,1 @@
-# Backend for the trivia app
+## Backend for the trivia app
